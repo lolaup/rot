@@ -1,2 +1,5 @@
-#评教系统 login.php首页
-登陆账号和密码，学生：账号：student  密码：123        教师账号：teacher 密码：123   管理员：admin  密码：123 
+#评教系统 
+login.php首页
+学生账号：student  密码：123        
+教师账号：teacher 密码：123   
+管理员：admin  密码：123 
