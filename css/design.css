@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+#deq #title{
+    text-align: center;
+    font-size:20px;
+    font-weight:bolder;
+    margin-top:40px;
+    color:RED;
+}
+#deq .que{
+    list-style:none;
+    
+}
+#deq .que:first-child{
+    margin-top:20px;
+}
+#list-que label{
+    font-size:16px;
+    margin-left:10px;
+    margin-top:16px;
+    color:#333333;
+}
+#list-que label:first-child{
+   font-size: 16px;
+   color:#444444;
+   margin-top:40px;
+}
+
+.i-text{
+    width:80%;
+    margin-top:20px;
+}
+
+

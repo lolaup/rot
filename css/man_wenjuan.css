@@ -1,0 +1,13 @@
+#right-content #meb{
+    padding:0 10px 0 10px;
+    /* display: none; */
+  }
+  #right-content #meb .p1{
+    margin-top:20px;
+    font-size:20px;
+    font-weight:bold;
+  }
+  #right-content #meb .pi1{
+    text-align: center;
+    margin-bottom:40px; 
+  }

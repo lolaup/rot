@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+}
+/* 左边导航部分 */
+#left-nav{
+    min-height:100%;
+    width: 230px;
+    position: absolute;
+    z-index: 1;
+    /* background: #424a5d; */
+    background: #5cb85c;
+}
+.inner{
+    display: inline-block;
+}
+#left-nav #title{
+    height:40px;
+    background:#232323;
+    width: 100%;
+    font-size:16px;
+    text-align: center;
+    line-height: 40px;
+    color: #eee;
+}
+#left-nav #info{
+    padding-top:20px;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    color:#eee;
+}
+#headimg{
+    width: 60px;
+    height:60px;
+    margin-left:10px;
+    border-radius: 100%;
+    overflow: hidden;
+    border:1px solid red;
+}
+#headtext{
+    margin-left:10px;
+}
+#left-nav #seach{
+    width:90%;
+    margin-left:5%; 
+}
+#left-nav #list li{
+    font-size:16px;
+    height:40px;
+    line-height: 40px;
+    list-style: none; 
+}
+#left-nav #list li a{
+    color:#fff;
+}
+#left-nav #list li span{
+    margin-right:10px;
+    margin-left:15px; 
+}
+/* 右边内容部分 */
+#right-content{
+    margin-left:230px;
+     
+  }
+#right-content #header{
+    height:40px;
+    background:#f0f3f4;
+    margin: 0;
+    border-bottom:1px solid  #eee;
+    /* padding:0;
+    width: 100%; */
+}
+#right-content #header .popover-demo button .sp1{
+    font-size:16px;
+}
+#right-content #header .popover-demo .btn1{
+margin-right:20px; 
+}
+#right-content #header .popover-demo .btn2{
+margin-right:30px; 
+}
+#right-content #header .sp2{
+line-height:40px;
+font-size:24px;
+color: #232323
+}
+#right-content #header .sp2:hover{
+ color:#ccc;
+ cursor:pointer;
+}
+#right-content .pag{
+    margin:20px 10px 20px 10px;
+}

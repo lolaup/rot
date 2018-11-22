@@ -1,0 +1,29 @@
+#right-content #rot-tab{
+    padding:0 10px 0 10px;
+    /* display:none; */
+ }
+ #right-content #rot-tab .bt1{
+     margin-left:10px;
+
+ }
+ #right-content #rot-tab .bt2{
+   margin-right:10px; 
+ }
+ #right-content #rot-tab .pi1{
+   text-align: center;
+   margin-top:20px;
+   font-size:20px;
+   font-weight: bold; 
+ }
+ #right-content #rot-tab .pi2{
+   font-size:18px;
+   font-weight: bold;
+ }
+ #right-content #rot-tab #tea{
+   resize: none;
+   width:100%;
+   font-size:16px;
+ }
+ .o{
+   cursor: pointer;
+ }

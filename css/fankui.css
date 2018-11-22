@@ -1,0 +1,9 @@
+#right-content #liuyan{
+    padding:0 10px 0 10px;
+    /* display: none; */
+  }
+#right-content #liuyan .p1{
+    margin-top:20px;
+    font-size:20px;
+    font-weight:bold;
+  }
